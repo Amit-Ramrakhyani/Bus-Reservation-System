@@ -1,3 +1,3 @@
 # Bus-Reservation-System
-# Username : user
-# Password : pass
+Username : user
+Password : pass
